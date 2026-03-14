@@ -13,7 +13,7 @@
   <a href="https://wiki.edgeless.top">文档</a> •
   <a href="https://down.edgeless.top">下载站</a> •
   <a href="https://www.edgeless.top">博客</a> •
-  <a href="https://home.edgeless.top/jump/qqg.html">QQ群</a>
+  <a href="https://home.edgeless.top/?openBetaDrawer=1">QQ群</a>
 </p>
 
 简体中文 | [繁體中文](https://github.com/EdgelessPE/Edgeless/blob/master/README_zht.md) | [English](https://github.com/EdgelessPE/Edgeless/blob/master/README_en.md)
@@ -39,7 +39,7 @@ Edgeless的**自编代码**基于 [MPL-2.0](https://www.mozilla.org/en-US/MPL/) 
 
 ## 获取发行和组件
 请前往[主页](https://home.edgeless.top)或[下载站](https://down.edgeless.top)查看。
->核心版本号最后一位不为 0 的版本为 Alpha 内测版本（例如 3.1.2），需要持有[内测邀请码](https://home.edgeless.top/jump/qqg.html)获取。
+>核心版本号最后一位不为 0 的版本为 Alpha 内测版本（例如 3.1.2），需要持有[内测邀请码](https://home.edgeless.top/?openBetaDrawer=1)获取。
 
 ## 插件包使用授权
 尽管我们的源代码是开源的，但是您在使用我们提供的下载站提供插件包时用到了我们提供的服务，而这一服务需要授权，[点击此处](https://wiki.edgeless.top/v2/cooperation/permit.html)查看授权细则。
